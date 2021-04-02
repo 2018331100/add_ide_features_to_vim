@@ -1,1 +1,1 @@
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+https://github.com/awesome-streamers/awesome-streamerrc/tree/master/ThePrimeagen
