@@ -1,1 +1,1 @@
-https://github.com/awesome-streamers/awesome-streamerrc/tree/master/ThePrimeagen
+git clone https://github.com/awesome-streamers/awesome-streamerrc/tree/master/ThePrimeagen
